@@ -1,0 +1,4 @@
+# Mizan is a personal reference app, not a public site — keep it out of
+# search engines and crawlers entirely.
+User-agent: *
+Disallow: /
